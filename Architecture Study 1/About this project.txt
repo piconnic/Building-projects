@@ -1,0 +1,3 @@
+This build is a small one that experiments with various photo techniques and architectural design.
+
+ 
