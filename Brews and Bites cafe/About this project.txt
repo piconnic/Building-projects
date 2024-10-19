@@ -1,0 +1,9 @@
+This is my long term project: Brews and Bites café (im a builder not a "name maker" so the name might need some work)
+
+It exists in a fictional location named "HarbourWood City", a small remote city featuring landscapes similar to that of the pacific northwest and the rivers, islands, and forests of British Columbia.
+
+In this project, I focused on the environment and integrating architecture with their surroundings while also being something that could plausibly be built in real life.
+
+There are 2 buildings: the café and the community centre (you can probably figure out which is which)
+
+This build also focuses on environmental sustainability and walkability.
